@@ -18,6 +18,8 @@ Contents:
 5. Array Math.
 6. Broadcasting
 
+Check Test_Numpy.ipynb
+
 Pandas
 ------
 Pandas is library for basic data structure, and data analysis.
