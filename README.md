@@ -9,6 +9,8 @@ Numpy
 Numpy is library used in the field of computational science. 
 It provides high-performance, multi-dimensional arrays and the tools to handle them
 
+Check Test_Numpy.ipynb
+
 Contents:
 
 1. Import numpy library.
@@ -17,8 +19,6 @@ Contents:
 4. Datatypes.
 5. Array Math.
 6. Broadcasting
-
-Check Test_Numpy.ipynb
 
 Pandas
 ------
