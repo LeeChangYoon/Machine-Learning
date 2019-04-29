@@ -20,6 +20,19 @@ Contents:
 
 Pandas
 ------
+Pandas is library for basic data structure, and data analysis.
+It allows us to create a data object consisting of a row and column, almost like an Excel.
+
+Contents:
+
+1. Import pandas library
+2. Creating data frames
+3. Previewing Data
+4. Sorting
+5. Selecting 
+6. Selecting / Querting
+7. Modify
+8. Dummy and Drop
 
 Tensorflow
 ==========
