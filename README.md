@@ -9,7 +9,7 @@ Numpy
 Numpy is library used in the field of computational science. 
 It provides high-performance, multi-dimensional arrays and the tools to handle them
 
-Check python_numpy.ipynb
+Check Numpy
 
 Objects:
 
