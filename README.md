@@ -9,16 +9,15 @@ Numpy
 Numpy is library used in the field of computational science. 
 It provides high-performance, multi-dimensional arrays and the tools to handle them
 
-Check Test_Numpy.ipynb
+Check python_numpy.ipynb
 
-Contents:
+Objects:
 
-1. Import numpy library.
-2. Initialize the array, which is matrix.
-3. Array indexing, similar to the python list indexing
-4. Datatypes.
-5. Array Math.
-6. Broadcasting
+1. We can use numby library.
+2. We can understand when to use the numpy.
+3. Understand the difference between numpy array and python list.
+4. We can create and calculate various shap of matrix (numpy array).
+5. We can process the data from files by using numpy.
 
 Pandas
 ------
