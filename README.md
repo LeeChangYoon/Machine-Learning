@@ -1,5 +1,5 @@
 # Machine-Learning
-Machine Learning: from past to present
+Machine Learning: Basic to MNIST
 
 Before starting ML
 ==================
