@@ -51,4 +51,5 @@ Logistic ~ANN
 -------------
 
 
-Copyright by LeeChangYoon
+
+© 2018-2019 Lee ChangYoon All Rights Reserved
