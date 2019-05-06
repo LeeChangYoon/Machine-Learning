@@ -1,5 +1,5 @@
 # Machine-Learning
-Machine Learning: Basic to MNIST
+Machine Learning: MNIST the basic of the ML
 
 Before starting ML
 ==================
